@@ -7,7 +7,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 <_each team member clones repo and then edits/replace with their name below_>
 - Sean Saltamachio
 - MEMBER02
-- MEMBER03
+- Mandy Yu
 - Gabriel Williams
 
 
