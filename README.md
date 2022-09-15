@@ -8,7 +8,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Sean Saltamachio
 - MEMBER02
 - MEMBER03
-- MEMBER04
+- Gabriel Williams
 
 
 ## Prerequisites  <_add anything else that applies_>
