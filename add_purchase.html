@@ -1,8 +1,18 @@
 <div style="background-color:rgb(75, 73, 73);color:white;width:70%;overflow:auto;margin: auto;">
     <h1 style="text-align: center;">Add purchase</h1>
     <div style="display: block; text-align: center;">
-        <label for="electric">kw/h</label>
-        <input type="text" id="electric" name="electric">
+        <select name="types" id="types">
+            <option value="clothing">Clothing</option>
+            <option value="computer">Computer/Device</option>
+            <option value="sapplicance">Small home appliance</option>
+            <option value="lapplicance">Large home appliance</option>
+            <option value="foodnr">Food (non red meat)</option>
+            <option value="foodnr">Food (red meat)</option>
+          </select>
+    </div>
+    <div style="display: block; text-align: center;">
+        <label for="quantity">quantity</label>
+        <input type="text" id="quantity" name="quantity">
     </div>
     <div style="background-color:green;width: 20%;margin: auto;">
         <h3 style="text-align: center;">add</h3>
