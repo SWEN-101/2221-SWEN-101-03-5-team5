@@ -1,7 +1,7 @@
-# Project Name: _____ _replace with your particular project name and  type_ _____
+# Project Name: Youtility
 # Modify this document to expand any and all sections that are applicable for a better understanding from your users/testers/collaborators (remove this comment and other instructions areas for your FINAL release)
 
-An online E-store system built in github.io .. etc. <_replace with other platform requirements_>
+An application designed to track the users carbon footprint
   
 ## Team 
 <_each team member clones repo and then edits/replace with their name below_>
@@ -14,7 +14,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 ## Prerequisites  <_add anything else that applies_>
 
 - github accounts and basic github.io knowledge
--
+- knowledge of typical web interfaces
 -
 
 ## How to access it or run it  <_add when applicable_>
@@ -25,13 +25,10 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 4.  
 
 ## Known bugs and disclaimers
-(It may be the case that your implementation is not perfect...)
-
-Document any known bug or nuisance.
-If any shortcomings, make clear what these are and where they are located.
+all accounts deemed family accounts because no way of actually logining in to check this
 
 ## Link or full list of requirements
- <_you could linkto the specific private board where your backlog is kept_>
+https://docs.google.com/document/d/1h3TC0vaFworrF5r4K5wfFUZF7id4dC7j/edit?usp=sharing&ouid=101752969153640726625&rtpof=true&sd=true
 
 
 
